@@ -1,0 +1,1 @@
+<template>  <div class="card p-4 h-50">    <h5>AAAAAA</h5>  </div></template><script>export default {  name: "IntroVideo",  components: {  },}</script><style scoped></style>
